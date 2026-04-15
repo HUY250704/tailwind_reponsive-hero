@@ -44,7 +44,7 @@ Du an nay tap trung vao viec chuyen giao dien tu Figma sang `HTML` va `TailwindC
 - Giu cau truc HTML sach se, han che lap lai khong can thiet.
 - Uu tien su dung `flex` va `grid` de xay dung layout.
 - Tap trung vao tinh de doc va kha nang bao tri code.
-- Tham khao thiet ke goc tren Figma: [Responsive hero ](https://www.figma.com/design/89Eg33oY375gyEA5apHRcV/Untitled?node-id=0-1&t=hgArz7WHNaFIPn9q-1%3C/a)
+- Tham khao thiet ke goc tren Figma: [Responsive hero ](https://www.figma.com/design/89Eg33oY375gyEA5apHRcV/Repsonsive-hero?node-id=0-1&p=f&t=Prfpuv0h05lORS3D-0)
 
 ---
 
