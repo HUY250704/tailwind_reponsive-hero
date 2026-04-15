@@ -30,13 +30,12 @@ Du an nay tap trung vao viec chuyen giao dien tu Figma sang `HTML` va `TailwindC
 ## Cau truc du an
 
 - `index.html`: Trang chinh
-- `login_Reponsive.html`: Trang login responsive
 - `image/`: Thu muc chua hinh anh
 
 ## Huong dan su dung
 
 1. Clone hoac tai du an ve may.
-2. Mo file `index.html` hoac `login_Reponsive.html` bang trinh duyet.
+2. Mo file `index.html`  bang trinh duyet.
 3. Kiem tra layout tren cac kich thuoc man hinh khac nhau nhu mobile, tablet va desktop.
 4. Neu can, dieu chinh HTML va cac Tailwind utilities de dam bao giao dien responsive.
 
@@ -45,8 +44,7 @@ Du an nay tap trung vao viec chuyen giao dien tu Figma sang `HTML` va `TailwindC
 - Giu cau truc HTML sach se, han che lap lai khong can thiet.
 - Uu tien su dung `flex` va `grid` de xay dung layout.
 - Tap trung vao tinh de doc va kha nang bao tri code.
-- Tham khao thiet ke goc tren Figma: [Responsive Login Screen - Community](https://www.figma.com/design/H8gMcUQB8m3XrfFhmXhJTS/Responsive-Login-screen--Community-?node-id=1-87&p=f&t=ClXWLZCGBQVeK5hu-0)
+- Tham khao thiet ke goc tren Figma: [Responsive hero ](https://www.figma.com/design/89Eg33oY375gyEA5apHRcV/Repsonsive-hero?node-id=0-1&p=f&t=Prfpuv0h05lORS3D-0)
 
 ---
 
-© 2023 Responsive Login Screen - Community
